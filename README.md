@@ -1,16 +1,25 @@
-## Hi there 👋
+### Thiago Arouca, Desenvolvedor de software
 
-<!--
-**Thiagoarouca/Thiagoarouca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim:
 
-Here are some ideas to get you started:
+<div>
+  <p>
+    Cursando Analise e Desenvolvimento de sistemas, sou apaixonado por
+desenvolvimento de software e administração de banco de dados.
+Atualmente, estou em busca de um estágio Pará colocar em pratica minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+linguagem de programação: Java, JavaScript, Python. <br> 
+Banco de Dados: SQL (MySQL).
+
+Em constante evolução:
+Estou sempre buscando novos desafios e oportunidades para ampliar meus conhecimentos. Meu próximo objetivo é me aprofundar em DevOps, cloud computing e arquitetura de software para aumentar o meu nível de conhecimento.
+  </p>
+</div>
+
+## Minhas tecnologias:
+<div style="display: inline_block"> 
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+          
+   
+</div>
