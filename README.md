@@ -8,7 +8,7 @@
 desenvolvimento de software e administração de banco de dados.
 Atualmente, estou em busca de um estágio Pará colocar em pratica minhas habilidades.
 
-linguagem de programação: Java, JavaScript, Python. <br> 
+linguagem de programação: Java, JavaScript, HTML5 ,Css, Python. <br> 
 Banco de Dados: Microsoft SQL serve.
 
 Em constante evolução:
